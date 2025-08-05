@@ -1,7 +1,7 @@
-# proyectofinal
+
 proyectafinal.jpg
 
-# descripcion
+# DescripciÓn
 Este proyecto esta enfocado en ayudar a la clasificación de elemntos reciclables y no reciclables mediante un modelo de vision por computador de google teachable machine que esta implementado en un bot de discord para mayor facilidad de uso
 # herramientas usadas
 Google teachable machine/
